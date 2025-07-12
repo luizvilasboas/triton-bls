@@ -22,7 +22,7 @@ To run the tests, follow these steps:
 
 1. Clone the repository:
     ```
-    git clone https://gitlab.com/olooeez/triton-bls.git
+    git clone https://github.com/luizvilasboas/triton-bls.git
     cd triton-bls
     ```
 
@@ -48,4 +48,4 @@ If you're interested in contributing to this project, feel free to open a merge 
 
 ## License
 
-This project is available under the [The Unlicense](https://gitlab.com/olooeez/triton-bls/-/blob/main/LICENSE). For more information, please see the LICENSE file.
+This project is available under the [The Unlicense](https://github.com/luizvilasboas/triton-bls/blob/main/LICENSE). For more information, please see the LICENSE file.
